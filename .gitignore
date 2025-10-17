@@ -1,0 +1,6 @@
+# Folders/Directories
+/private
+*.zip
+
+# Files
+.env
